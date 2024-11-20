@@ -82,7 +82,7 @@ MIT License
 
 ## Authors
 
-Your Name - Initial work
+Silvio Meneguzzo
 
 ## Acknowledgments
 
